@@ -197,4 +197,4 @@ async def check(ctx):
     else:
         await ctx.send("Görsel yüklemedin.")
 
-bot.run("MTM1NTk3MTA3MTIyMzkyMjcyOA.G2gkZl.-v3hin-2dnaG7xjtzCY8N_kgOovnDVv6ftcV4Q")
+bot.run("")
